@@ -36,7 +36,7 @@
     "code": "5.x.x",
     "hapi": "17.x.x",
     "lab": "16.x.x",
-    "mongoose": "5.x.x"
+    "mongoose": "^5.3.9"
   },
   "directories": {
     "example": "example",
